@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "description": "A handbook of agile software craftsmanship that guides developers to write cleaner, more readable, and highly maintainable code. Perfect for developers who want to refine their techniques.",
+    "category": "Tech",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "2",
+    "title": "You Don't Know JS: Scope & Closures",
+    "author": "Kyle Simpson",
+    "description": "An essential guide to Javascript's core mechanics. This book breaks down scope, closures, lexical environment, and hoisting in a clear, deep, and understandable way.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "3",
+    "title": "Designing Data-Intensive Applications",
+    "author": "Martin Kleppmann",
+    "description": "A deep dive into database internals, distributed systems, storage engines, data models, and caching strategies. Crucial reading for modern backend software engineers.",
+    "category": "Tech",
+    "available_quantity": 3,
+    "image_url": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "4",
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt & David Thomas",
+    "description": "A timeless classic that details the core principles of software engineering. Learn to build software that is robust, flexible, self-documenting, and easy to maintain.",
+    "category": "Tech",
+    "available_quantity": 6,
+    "image_url": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "5",
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "description": "An exploration of the origins and structure of the universe. Hawking breaks down complex topics like black holes, space-time, gravity, and the Big Bang theory for general readers.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "6",
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "description": "A journey through the cosmic ocean, discovering the history of science, humanity, and our position in the universe. Sagan shares the sheer beauty of astrophysic discovery.",
+    "category": "Science",
+    "available_quantity": 7,
+    "image_url": "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "7",
+    "title": "The Selfish Gene",
+    "author": "Richard Dawkins",
+    "description": "A classic work on evolutionary biology. Dawkins explains the gene-centric view of evolution and how it explains animal behavior, altruism, and cooperation in nature.",
+    "category": "Science",
+    "available_quantity": 2,
+    "image_url": "https://images.unsplash.com/photo-1532187863486-abf9d39d66e8?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "8",
+    "title": "Astrophysics for People in a Hurry",
+    "author": "Neil deGrasse Tyson",
+    "description": "A quick, witty, and entertaining guide to the cosmos. Perfect for busy people who want to understand dark matter, quantum mechanics, and the universe's evolution.",
+    "category": "Science",
+    "available_quantity": 9,
+    "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "9",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "description": "The marvelous adventure of Bilbo Baggins as he seeks to win a share of the treasure guarded by Smaug. The classic epic fantasy that serves as a prelude to The Lord of the Rings.",
+    "category": "Story",
+    "available_quantity": 10,
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "10",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "description": "A Pulitzer Prize-winning novel about growth, racial injustice, and compassion in the American South. Atticus Finch's defense of a black man is a timeless moral lesson.",
+    "category": "Story",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "11",
+    "title": "1984",
+    "author": "George Orwell",
+    "description": "A dystopian social science fiction masterpiece that explores the dangers of totalitarianism, surveillance, brainwashing, and absolute state control over free thought.",
+    "category": "Story",
+    "available_quantity": 4,
+    "image_url": "https://images.unsplash.com/photo-1476275466078-4007374efbbe?auto=format&fit=crop&q=80&w=400"
+  },
+  {
+    "id": "12",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "description": "A magical fable about Santiago, an Andalusian shepherd boy, who yearns to travel in search of worldly treasure. His quest teaches him about listening to his heart and following dreams.",
+    "category": "Story",
+    "available_quantity": 12,
+    "image_url": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&q=80&w=400"
+  }
+]
