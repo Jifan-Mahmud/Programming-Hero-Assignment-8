@@ -33,7 +33,7 @@
     "description": "A timeless classic that details the core principles of software engineering. Learn to build software that is robust, flexible, self-documenting, and easy to maintain.",
     "category": "Tech",
     "available_quantity": 6,
-    "image_url": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?auto=format&fit=crop&q=80&w=400"
+    "image_url": "https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&q=80&w=400"
   },
   {
     "id": "5",
@@ -60,7 +60,7 @@
     "description": "A classic work on evolutionary biology. Dawkins explains the gene-centric view of evolution and how it explains animal behavior, altruism, and cooperation in nature.",
     "category": "Science",
     "available_quantity": 2,
-    "image_url": "https://images.unsplash.com/photo-1532187863486-abf9d39d66e8?auto=format&fit=crop&q=80&w=400"
+    "image_url": "https://images.unsplash.com/photo-1530026405186-ed1ea0ac7a63?auto=format&fit=crop&q=80&w=400"
   },
   {
     "id": "8",

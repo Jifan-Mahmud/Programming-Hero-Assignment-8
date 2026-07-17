@@ -11,6 +11,14 @@ export async function GET() {
     if (count === 0) {
       // Seed books into MongoDB
       await booksCollection.insertMany(booksData);
+    } else {
+      // Sync image URLs from JSON in case any broken links were updated
+      for (const book of booksData) {
+        await booksCollection.updateOne(
+          { id: book.id },
+          { $set: { image_url: book.image_url } }
+        );
+      }
     }
 
     const books = await booksCollection.find({}).toArray();
